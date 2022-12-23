@@ -3,7 +3,7 @@
 > HOW TO RUN 
 ```lisp
 1. First install clisp or any common lisp compiler.
-2. clisp calculator.lisp.
+2. clisp bank_system.lisp.
 
 ```
 ###### 안녕! annyeong!
